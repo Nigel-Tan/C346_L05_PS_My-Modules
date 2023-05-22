@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="@drawable/colorful"
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".MainActivity">
@@ -18,7 +18,7 @@
         android:gravity="center"
         android:text="@string/title"
         android:textAppearance="@android:style/TextAppearance.Large"
-        android:textColor="@color/titlecolor"
+        android:textColor="@color/black"
         android:textSize="50sp" />
 
     <Space
@@ -31,7 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.1"
-        android:background="@color/dropdown_background"
+        android:background="#80FFC0CB"
         android:entries="@array/dropdown_items"
         android:padding="16dp" />
 

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    android:background="@drawable/bg"
+    android:background="@drawable/colorful"
     tools:context=".MainActivity">
 
     <TextView
@@ -18,7 +18,7 @@
         android:gravity="center"
         android:text="@string/title"
         android:textAppearance="@android:style/TextAppearance.Large"
-        android:textColor="@color/titlecolor"
+        android:textColor="@color/black"
         android:textSize="50sp" />
 
     <Space
