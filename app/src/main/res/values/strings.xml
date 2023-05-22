@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="show_module_information">SHOW MODULE INFORMATION</string>
+    <string name="title">My Modules</string>
+    <string name="return_to_main_menu">RETURN TO MAIN MENU</string>
+    <string-array name="dropdown_items">
+        <item>C346 Android Programming</item>
+        <item>C303 IT Project Management</item>
+        <item>C286 Advanced Web App Devt in .NET</item>
+        <item>C300 FYP Project</item>
+    </string-array>
+    <color name="dropdown_background">#4DFFC0CB</color>
+    <color name="dropdown_background2">#80FFC0CB</color>
+    <color name="titlecolor">#9AB656</color>
+</resources>
